@@ -22,7 +22,7 @@ My proficiency involves gathering, refining, and scrutinizing extensive datasets
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://github.com/saitejareddyv/Saiteja.github.io/blob/main/python.jpg" target="_blank"><img style="margin: 10px" src="https://github.com/saitejareddyv/Saiteja.github.io/blob/main/python.jpg" alt="Python" height="25" /></a> 
+<a href="https://github.com/saitejareddyv/saitejareddyv/blob/main/python.jpg" target="_blank"><img style="margin: 10px" src="https://github.com/saitejareddyv/saitejareddyv/blob/main/python.jpg" alt="Python" height="25" /></a> 
 <a href="https://github.com/saitejareddyv/Saiteja.github.io/blob/main/4846356.png" target="_blank"><img style="margin: 10px" src="https://github.com/saitejareddyv/Saiteja.github.io/blob/main/4846356.png" alt="R" height="25" /></a>  
 <a href="https://github.com/saitejareddyv/Saiteja.github.io/blob/main/Microsoft-Power-BI-Logo-2013.png" target="_blank"><img style="margin: 10px" src="https://github.com/saitejareddyv/Saiteja.github.io/blob/main/Microsoft-Power-BI-Logo-2013.png" alt="Power BI" height="25" /></a>  
 <a href="https://github.com/saitejareddyv/Saiteja.github.io/blob/main/sql.png" target="_blank"><img style="margin: 10px" src="https://github.com/saitejareddyv/Saiteja.github.io/blob/main/sql.png" alt="SQL" height="25" /></a>  
