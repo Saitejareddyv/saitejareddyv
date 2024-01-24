@@ -41,3 +41,23 @@ BTech in Electronics and Communications Engineering <br>
 Presidency University | 08/2016 - 05/2020 <br>
 Relevant Coursework: Artificial Neural Networks, Wireless Communication and Networks, Digital Communication, Fuzzy Logic, Probability and Statistics, Digital Entrepreneurship
 
+## WORK EXPERIENCE
+Amrutha infotech Pvt. Ltd. | Insights Analyst<br>
+09/2021 – 10/2023 | Hyderabad, India
+<br>
+• Spearheaded formulation and reporting of KPIs for 25M annual web visitors using SQL and Excel 
+Sheets, partnering directly with the executive team.<br>
+• Developed a logistic regression model, yielding a 15% visitor increase by guiding SEO targeting 
+decisions.<br>
+• Collaborated on pricing strategies leading to an 18% reduction for a user segment, boosting yearly 
+revenue by $100K.<br>
+• Uncovered insights improving customer conversions by 32% through root cause analysis.
+<br>
+High Go info solutions Pvt. Ltd. | Data Analyst Intern<br>
+06/2020 - 08/2021 | Hyderabad, India<br>
+• Led sales data analysis through Power BI, creating interactive dashboards that enhanced decisionmaking process.<br>
+• Implemented SQL for data collection, transformation, and analysis, significantly improving data
+processing efficiency and accuracy, contributing to informed business strategies.<br>
+• Enhanced customer engagement by 15% through integrated CRM tools for personalized marketing.<br>
+• Optimized sales forecasting accuracy by 20% and improved inventory management through data <br>
+visualizations and statistical analyses.<br>
