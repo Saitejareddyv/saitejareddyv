@@ -53,6 +53,7 @@ decisions.<br>
 revenue by $100K.<br>
 • Uncovered insights improving customer conversions by 32% through root cause analysis.
 <br>
+
 High Go info solutions Pvt. Ltd. | Data Analyst Intern<br>
 06/2020 - 08/2021 | Hyderabad, India<br>
 • Led sales data analysis through Power BI, creating interactive dashboards that enhanced decisionmaking process.<br>
