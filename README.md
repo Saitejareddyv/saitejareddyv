@@ -33,17 +33,17 @@ My proficiency involves gathering, refining, and scrutinizing extensive datasets
 <br/> 
 
 ## Education
-MSc Data Analysis for Business Intelligence <br>
-University of Leicester | 09/2021 - 01/2023 <br>
+### MSc Data Analysis for Business Intelligence <br>
+### University of Leicester | 09/2021 - 01/2023 <br>
 Relevant Coursework: Data Mining and Neural Networks, Analysis and Design of Algorithms, Mathematical Modelling, Linear Statistical Models, Data Analytics for esports, Fundamentals of Data Science.
 
-BTech in Electronics and Communications Engineering <br> 
-Presidency University | 08/2016 - 05/2020 <br>
+### BTech in Electronics and Communications Engineering <br> 
+### Presidency University | 08/2016 - 05/2020 <br>
 Relevant Coursework: Artificial Neural Networks, Wireless Communication and Networks, Digital Communication, Fuzzy Logic, Probability and Statistics, Digital Entrepreneurship
 
 ## WORK EXPERIENCE
-Amrutha infotech Pvt. Ltd. | Insights Analyst<br>
-09/2021 – 10/2023 | Hyderabad, India
+### Amrutha infotech Pvt. Ltd. | Insights Analyst<br>
+### 09/2021 – 10/2023 | Hyderabad, India
 <br>
 • Spearheaded formulation and reporting of KPIs for 25M annual web visitors using SQL and Excel 
 Sheets, partnering directly with the executive team.<br>
@@ -54,8 +54,8 @@ revenue by $100K.<br>
 • Uncovered insights improving customer conversions by 32% through root cause analysis.
 <br>
 
-High Go info solutions Pvt. Ltd. | Data Analyst Intern<br>
-06/2020 - 08/2021 | Hyderabad, India<br>
+### High Go info solutions Pvt. Ltd. | Data Analyst Intern<br>
+### 06/2020 - 08/2021 | Hyderabad, India<br>
 • Led sales data analysis through Power BI, creating interactive dashboards that enhanced decisionmaking process.<br>
 • Implemented SQL for data collection, transformation, and analysis, significantly improving data
 processing efficiency and accuracy, contributing to informed business strategies.<br>
