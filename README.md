@@ -33,11 +33,11 @@ My proficiency involves gathering, refining, and scrutinizing extensive datasets
 <br/> 
 
 ## Education
-MSc Data Analysis for Business Intelligence, 
+MSc Data Analysis for Business Intelligence (`<br>`)
 University of Leicester | 09/2021 - 01/2023
 Relevant Coursework: Data Mining and Neural Networks, Analysis and Design of Algorithms, Mathematical Modelling, Linear Statistical Models, Data Analytics for esports, Fundamentals of Data Science.
 
-BTech in Electronics and Communications Engineering, 
+BTech in Electronics and Communications Engineering 
 Presidency University | 08/2016 - 05/2020 
 Relevant Coursework: Artificial Neural Networks, Wireless Communication and Networks, Digital Communication, Fuzzy Logic, Probability and Statistics, Digital Entrepreneurship
 
