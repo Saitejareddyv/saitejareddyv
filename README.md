@@ -45,14 +45,21 @@ Relevant Coursework: Artificial Neural Networks, Wireless Communication and Netw
 ### Amrutha infotech Pvt. Ltd. | Insights Analyst<br>
 ### 09/2021 – 10/2023 | Hyderabad, India
 <br>
-• Spearheaded formulation and reporting of KPIs for 25M annual web visitors using SQL and Excel 
-Sheets, partnering directly with the executive team.<br>
-• Developed a logistic regression model, yielding a 15% visitor increase by guiding SEO targeting 
-decisions.<br>
-• Collaborated on pricing strategies leading to an 18% reduction for a user segment, boosting yearly 
-revenue by $100K.<br>
-• Uncovered insights improving customer conversions by 32% through root cause analysis.
-<br>
+•	Extracted and analyzed data from various confidential databases/DataMart using SQL/Oracle queries (Toad).<br>
+•	Conducted data cleansing and manipulation using advanced Excel functions, including VLOOKUPs and pivot tables.<br>
+•	Created project presentations for business stakeholders and clients using MS PowerPoint.<br>
+•	Prepared reports utilizing MS Excel functions (VLOOKUPs, HLOOKUPs, pivot tables, Macros).<br>
+•	Assisted in preparing the bank's regulatory Call Reports, ensuring consistency with financial statements.<br>
+•	Conducted research, update, and validation of underlying spreadsheet data; strategically filled gaps using Microsoft tools.<br>
+•	Managed spreadsheets and maintained data integrity for accurate availability to higher management.<br>
+•	Participated in Agile and Scrum meetings, providing feedback and updates on the project.<br>
+•	Followed up with LOBs and tech teams on intake, missing data files, transaction codes, and documentation.<br>
+•	Reviewed proposed issues with line of business, compliance, risk partners, audit teams, and SMEs for clarity and accuracy.<br>
+•	Captured end-to-end lineage and performed impact analysis for changes to data assets across pipelines.<br>
+•	Maintained data flow documentation and performed object mapping using BI tools and validation.<br>
+•	Conducted QAQC checks for data accuracy and validation.v
+•	Maintained and performed process analysis, designing BI reports, and opening StoreFront tickets in UAT, DEV, and PROD for the claims team.<br>
+
 
 ### High Go info solutions Pvt. Ltd. | Data Analyst Intern<br>
 ### 06/2020 - 08/2021 | Hyderabad, India<br>
