@@ -57,13 +57,13 @@ Relevant Coursework: Artificial Neural Networks, Wireless Communication and Netw
 •	Reviewed proposed issues with line of business, compliance, risk partners, audit teams, and SMEs for clarity and accuracy.<br>
 •	Captured end-to-end lineage and performed impact analysis for changes to data assets across pipelines.<br>
 •	Maintained data flow documentation and performed object mapping using BI tools and validation.<br>
-•	Conducted QAQC checks for data accuracy and validation.v
+•	Conducted QAQC checks for data accuracy and validation.<br>
 •	Maintained and performed process analysis, designing BI reports, and opening StoreFront tickets in UAT, DEV, and PROD for the claims team.<br>
 
 
 ### High Go info solutions Pvt. Ltd. | Data Analyst Intern<br>
 ### 06/2020 - 08/2021 | Hyderabad, India<br>
-• Led sales data analysis through Power BI, creating interactive dashboards that enhanced decisionmaking process.<br>
+• Led sales data analysis through Power BI, creating interactive dashboards that enhanced decision-making process.<br>
 • Implemented SQL for data collection, transformation, and analysis, significantly improving data
 processing efficiency and accuracy, contributing to informed business strategies.<br>
 • Enhanced customer engagement by 15% through integrated CRM tools for personalized marketing.<br>
