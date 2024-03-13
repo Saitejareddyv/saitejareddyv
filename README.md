@@ -61,5 +61,3 @@ processing efficiency and accuracy, contributing to informed business strategies
 • Enhanced customer engagement by 15% through integrated CRM tools for personalized marketing.<br>
 • Optimized sales forecasting accuracy by 20% and improved inventory management through data <br>
 visualizations and statistical analyses.<br>
-
-## Projects
