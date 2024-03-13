@@ -43,8 +43,7 @@ Relevant Coursework: Artificial Neural Networks, Wireless Communication and Netw
 
 ## WORK EXPERIENCE
 ### Amrutha infotech Pvt. Ltd. | Insights Analyst<br>
-### 09/2021 – 10/2023 | Hyderabad, India
-<br>
+### 09/2021 – 10/2023 | Hyderabad, India <br>
 •Spearheaded Salesforce customization at Bounce Infinity, enhancing automation and workflow efficiency achieved a 30% boost in customer response times through targeted platform adjustments.<br>
 •Directed a Power BI data analysis project, reducing scooter downtime by 15% by fostering cross-functional collaboration and innovating battery design through data driven insights. Crafted custom DAX formulas and implemented row-level security to safeguard data and track key performance indicators.<br>
 •Pioneered a FinOps strategy using Power BI at Bounce, aligning costs with revenue and pivoting high-traffic areas to a subscription model resulted in a 20% uplift in customer retention and 15% revenue growth.<br>
