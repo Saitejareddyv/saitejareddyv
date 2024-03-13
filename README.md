@@ -45,21 +45,14 @@ Relevant Coursework: Artificial Neural Networks, Wireless Communication and Netw
 ### Amrutha infotech Pvt. Ltd. | Insights Analyst<br>
 ### 09/2021 – 10/2023 | Hyderabad, India
 <br>
-•	Extracted and analyzed data from various confidential databases/DataMart using SQL/Oracle queries (Toad).<br>
-•	Conducted data cleansing and manipulation using advanced Excel functions, including VLOOKUPs and pivot tables.<br>
-•	Created project presentations for business stakeholders and clients using MS PowerPoint.<br>
-•	Prepared reports utilizing MS Excel functions (VLOOKUPs, HLOOKUPs, pivot tables, Macros).<br>
-•	Assisted in preparing the bank's regulatory Call Reports, ensuring consistency with financial statements.<br>
-•	Conducted research, update, and validation of underlying spreadsheet data; strategically filled gaps using Microsoft tools.<br>
-•	Managed spreadsheets and maintained data integrity for accurate availability to higher management.<br>
-•	Participated in Agile and Scrum meetings, providing feedback and updates on the project.<br>
-•	Followed up with LOBs and tech teams on intake, missing data files, transaction codes, and documentation.<br>
-•	Reviewed proposed issues with line of business, compliance, risk partners, audit teams, and SMEs for clarity and accuracy.<br>
-•	Captured end-to-end lineage and performed impact analysis for changes to data assets across pipelines.<br>
-•	Maintained data flow documentation and performed object mapping using BI tools and validation.<br>
-•	Conducted QAQC checks for data accuracy and validation.<br>
-•	Maintained and performed process analysis, designing BI reports, and opening StoreFront tickets in UAT, DEV, and PROD for the claims team.<br>
-
+•Spearheaded Salesforce customization at Bounce Infinity, enhancing automation and workflow efficiency achieved a 30% boost in customer response times through targeted platform adjustments.<br>
+•Directed a Power BI data analysis project, reducing scooter downtime by 15% by fostering cross-functional collaboration and innovating battery design through data driven insights. Crafted custom DAX formulas and implemented row-level security to safeguard data and track key performance indicators.<br>
+•Pioneered a FinOps strategy using Power BI at Bounce, aligning costs with revenue and pivoting high-traffic areas to a subscription model resulted in a 20% uplift in customer retention and 15% revenue growth.<br>
+•Enhanced data retrieval processes by optimizing complex MySQL queries, significantly improving the efficiency of operational and customer data analysis.<br>
+•Developed and deployed SSIS packages for seamless data integration from operational systems, ensuring accurate and consistent data availability for strategic reporting and decision-making.<br>
+•Implemented a data-driven scheduling system at Bounce Infinity, leading through empathy and targeted training to overcome resistance—achieved a 25% increase in maintenance efficiency and widespread system adoption.<br>
+•Contributed to a predictive analytics project, improving data quality and visualization techniques to boost model accuracy led to a 20% reduction in customer wait times.<br>
+•Initiated a partnership with an environmental non-profit, leveraging data analysis to verify a 10% reduction in carbon emissions via scooter sharing.<br>
 
 ### High Go info solutions Pvt. Ltd. | Data Analyst Intern<br>
 ### 06/2020 - 08/2021 | Hyderabad, India<br>
