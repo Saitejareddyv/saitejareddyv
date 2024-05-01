@@ -55,9 +55,7 @@ Relevant Coursework: Artificial Neural Networks, Wireless Communication and Netw
 
 ### High Go info solutions Pvt. Ltd. | Data Analyst Intern<br>
 ### 06/2020 - 08/2021 | Hyderabad, India<br>
-• Led sales data analysis through Power BI, creating interactive dashboards that enhanced decision-making process.<br>
-• Implemented SQL for data collection, transformation, and analysis, significantly improving data
-processing efficiency and accuracy, contributing to informed business strategies.<br>
-• Enhanced customer engagement by 15% through integrated CRM tools for personalized marketing.<br>
-• Optimized sales forecasting accuracy by 20% and improved inventory management through data <br>
-visualizations and statistical analyses.<br>
+•	Deployed 100GB SQL warehouse, automated VBA reports, saving 40 monthly hours effectively.<br>
+•	Enhanced USPL World: 20% faster page loads, 15% higher conversions via real-time dashboards.<br>
+•	Optimized inventory with advanced analytics, cutting stockouts by 25%, excess costs by 20%.<br>
+
