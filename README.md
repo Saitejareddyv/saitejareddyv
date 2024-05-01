@@ -55,7 +55,7 @@ Relevant Coursework: Artificial Neural Networks, Wireless Communication and Netw
 
 ### High Go info solutions Pvt. Ltd. | Data Analyst Intern<br>
 ### 06/2020 - 08/2021 | Hyderabad, India<br>
-•	Deployed 100GB SQL warehouse, automated VBA reports, saving 40 monthly hours effectively.<br>
-•	Enhanced USPL World: 20% faster page loads, 15% higher conversions via real-time dashboards.<br>
-•	Optimized inventory with advanced analytics, cutting stockouts by 25%, excess costs by 20%.<br>
+•I spearheaded initiatives to enhance our platform's performance, reducing page load times by 20% through strategic optimization techniques. Additionally, we implemented conversion rate optimization strategies, resulting in a notable 10% increase in overall conversion rates within just six months.<br>
+•Leveraging advanced algorithms, we crafted personalized product recommendations tailored to each user's browsing and purchase history. This initiative not only boosted recommendation accuracy to over 70% but also significantly increased cross-selling and upselling revenue by 15% in a quarter.<br>
+•By developing predictive models and meticulously analyzing demand patterns, we achieved a remarkable forecast accuracy with a Mean Absolute Percentage Error (MAPE) of less than 15%. This allowed us to optimize inventory management, increasing turnover rates by 20% and minimizing excess inventory holding costs.<br>
 
